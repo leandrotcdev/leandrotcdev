@@ -1,7 +1,7 @@
 # 🌌 SYSTEM_OVERRIDE: INTRUSION DETECTED // WELCOME TO LEANDRO GITHUB
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+UI%2FUX+Enthusiast;Construindo+Interfaces+Modernas+%26+Impec%C3%A1veis;Java+%26+Mobile+Ecosystem+Explorer;Transformando+L%C3%B3gica+em+Experi%C3%AAncia+Digital" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Backend+e+Frontend+Developer+%7C+UI%2FUX+Enthusiast;Construindo+Interfaces+Modernas+%26+Impec%C3%A1veis;Java+%26+Mobile+Ecosystem+Explorer;Transformando+L%C3%B3gica+em+Experi%C3%AAncia+Digital" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,12 +17,11 @@
 
 ### 🐙 SOBRE O DESENVOLVEDOR
 
-Sou um **Desenvolvedor Full Stack** focado em Desenvolvimento de Software Seguro e Escalável. Construindo a ponte entre arquiteturas de dados complexas e interfaces de usuário. Arquiteto código limpo, seguro e com resiliência de sistemas. Gosto construir  interfaces intuitivas, modernas, escaláveis, impactantes, fluidas e altamente funcionais. Acredito que o desenvolvimento de software deve resolver problemas reais de negócios de forma simples, objetiva e escalável, seja otimizando a experiência do usuário na web ou estruturando arquiteturas robustas no backend, no ecossistema web e mobile.
+Sou um **Desenvolvedor Full Stack** focado em Desenvolvimento de Software Seguro e Escalável. Construindo a ponte entre arquiteturas de dados complexas e interfaces de usuário. Arquiteto código limpo, seguro e com resiliência de sistemas. Gosto construir interfaces intuitivas, modernas, escaláveis, impactantes, fluidas e altamente funcionais. Acredito que o desenvolvimento de software deve resolver problemas reais de negócios de forma simples, objetiva e escalável, seja otimizando a experiência do usuário na web ou estruturando arquiteturas robustas no backend, no ecossistema web e mobile.
 
 Entusiasta de Inteligência Artificial, LLMs, Machine Learning, de Engenharia de Software, AppSec e Segurança Ofensiva. Meu objetivo é proteger e manter segura as organizações, seus sistemas, códigos, dados e informações no espaço cibernético, através da Segurança Ofensiva. Focado em Desenvolvimento Seguro, Offensive Security, por meio do planejamento, reconhecimento, análise, exploração e persistência. Tenho um background multidisciplinar, pensando sempre em resultados e em negócios. Buscando sempre desafios e atividades que remetam a minha constante qualificação. Meu foco é desenvolver softwares com códigos seguros, realizar testes de segurança com qualidade e ética, seguindo os padrões e as melhores práticas da área.
 
-Atuando na preparação para atuar em ambientes dinâmicos de tecnologia, minha abordagem segue processos claros: Análise de requisitos lógicos e regras de negócio, Modelagem de banco de dados robusta e segura, Desenvolvimento de backend eficiente (APIs).</li>
-                        <li>Criação de interfaces modernas e intuitivas.</li>. Gosto muito de criar códigos para solucionar problemas complexos.
+Atuando na preparação para atuar em ambientes dinâmicos de tecnologia, minha abordagem segue processos claros: Análise de requisitos lógicos e regras de negócio, Modelagem de banco de dados robusta e segura, Desenvolvimento de backend eficiente (APIs). Gosto muito de criar códigos para solucionar problemas complexos.
 
 - 🌐 **Foco Atual:** Criação de aplicações Web e Mobile de alta performance e componentização limpa.
 - ⚙️ **Lógica & Dados:** Domínio em arquitetura de dados relacionais e manipulação de fluxos complexos de informação.
@@ -59,7 +58,7 @@ Atuando na preparação para atuar em ambientes dinâmicos de tecnologia, minha 
 
 ### 🔮 PROJETOS EM DESTAQUE (VITRINE)
 
-#### 🔧 [ProjetoAPI-Oficina-Mecanica-api-pet35] (https://github.com/MattMC05/api-pet35)
+#### 🔧 [api-pet35] (https://github.com/MattMC05/api-pet35)
 > **Arquitetura RESTful & Gestão de Ordens de Serviço (Backend API)**
 > Desenvolvimento de uma API robusta voltada para a automação e controle operacional de uma oficina mecânica. O sistema gerencia de forma inteligente o ciclo de vida de Ordens de Serviço (OS), fluxo de peças em estoque, cadastro de clientes e alocação de mecânicos. Focado nos princípios REST, validações de regras de negócio complexas, tratamento de exceções e persistência de dados segura, garantindo endpoints performáticos e integráveis a qualquer aplicação frontend.
 
