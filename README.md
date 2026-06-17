@@ -15,7 +15,7 @@
 
 ---
 
-### 🐙 SOBRE O DESENVOLVEDOR
+### 💻🐙 SOBRE O DESENVOLVEDOR
 
 Sou um **Desenvolvedor Full Stack** focado em Desenvolvimento de Software Seguro e Escalável. Construindo a ponte entre arquiteturas de dados complexas e interfaces de usuário. Arquiteto código limpo, seguro e com resiliência de sistemas. Gosto construir interfaces intuitivas, modernas, escaláveis, impactantes, fluidas e altamente funcionais. Acredito que o desenvolvimento de software deve resolver problemas reais de negócios de forma simples, objetiva e escalável, seja otimizando a experiência do usuário na web ou estruturando arquiteturas robustas no backend, no ecossistema web e mobile.
 
